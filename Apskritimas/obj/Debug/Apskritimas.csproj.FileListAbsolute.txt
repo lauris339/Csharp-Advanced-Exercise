@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\obj\Debug\Apskritimas.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\obj\Debug\Apskritimas.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\bin\Debug\Apskritimas.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\bin\Debug\Apskritimas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\bin\Debug\Apskritimas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\obj\Debug\Apskritimas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Apskritimas\obj\Debug\Apskritimas.pdb

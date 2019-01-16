@@ -1,0 +1,17 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\obj\Debug\SiuntaUnitTest.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\obj\Debug\SiuntaUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\SiuntaUnitTest.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\SiuntaUnitTest.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Siuntos.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Siuntos.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Siuntos.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\obj\Debug\SiuntaUnitTest.csproj.CopyComplete
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\obj\Debug\SiuntaUnitTest.dll
+C:\Users\Laurynas\Desktop\C_adv\C adv\SiuntaUnitTest\obj\Debug\SiuntaUnitTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\bin\Debug\eceptionFOrm.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\bin\Debug\eceptionFOrm.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\bin\Debug\eceptionFOrm.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.Form1.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\eceptionFOrm\obj\Debug\eceptionFOrm.pdb

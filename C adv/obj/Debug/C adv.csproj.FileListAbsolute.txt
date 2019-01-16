@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\bin\Debug\C adv.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\bin\Debug\C adv.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\bin\Debug\C adv.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\obj\Debug\C adv.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\obj\Debug\C adv.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\obj\Debug\C adv.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\C adv\obj\Debug\C adv.pdb

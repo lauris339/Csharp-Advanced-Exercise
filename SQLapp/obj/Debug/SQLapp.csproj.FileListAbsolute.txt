@@ -1,0 +1,9 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\bin\Debug\SQLduomenubaze.mdf
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\bin\Debug\SQLduomenubaze_log.ldf
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\bin\Debug\SQLapp.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\bin\Debug\SQLapp.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\bin\Debug\SQLapp.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\obj\Debug\SQLapp.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\obj\Debug\SQLapp.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\obj\Debug\SQLapp.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLapp\obj\Debug\SQLapp.pdb

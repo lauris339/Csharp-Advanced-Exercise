@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\bin\Debug\Taskas.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\bin\Debug\Taskas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\bin\Debug\Taskas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\obj\Debug\Taskas.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\obj\Debug\Taskas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\obj\Debug\Taskas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Taskas\obj\Debug\Taskas.csprojAssemblyReference.cache

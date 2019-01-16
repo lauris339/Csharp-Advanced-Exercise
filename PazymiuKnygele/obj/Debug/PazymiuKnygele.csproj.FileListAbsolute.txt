@@ -1,0 +1,10 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\bin\Debug\PazymiuKnygele.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\bin\Debug\PazymiuKnygele.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\bin\Debug\PazymiuKnygele.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.Form1.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\PazymiuKnygele\obj\Debug\PazymiuKnygele.pdb

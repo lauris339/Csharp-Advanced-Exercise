@@ -1,0 +1,6 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Dictionary\obj\Debug\Dictionary.pdb

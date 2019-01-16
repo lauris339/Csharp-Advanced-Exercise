@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\bin\Debug\HTTPuzklausa.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\bin\Debug\HTTPuzklausa.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\bin\Debug\HTTPuzklausa.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\obj\Debug\HTTPuzklausa.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\obj\Debug\HTTPuzklausa.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\obj\Debug\HTTPuzklausa.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\HTTPuzklausa\obj\Debug\HTTPuzklausa.pdb

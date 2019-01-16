@@ -1,0 +1,10 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\bin\Debug\SQLWindView.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\bin\Debug\SQLWindView.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\bin\Debug\SQLWindView.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.Form1.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\SQLWindView\obj\Debug\SQLWindView.pdb

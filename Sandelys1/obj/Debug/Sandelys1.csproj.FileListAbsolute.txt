@@ -1,0 +1,9 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\bin\Debug\Database1.mdf
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\bin\Debug\Database1_log.ldf
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\bin\Debug\Sandelys1.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\bin\Debug\Sandelys1.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\bin\Debug\Sandelys1.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\obj\Debug\Sandelys1.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\obj\Debug\Sandelys1.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\obj\Debug\Sandelys1.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Sandelys1\obj\Debug\Sandelys1.pdb

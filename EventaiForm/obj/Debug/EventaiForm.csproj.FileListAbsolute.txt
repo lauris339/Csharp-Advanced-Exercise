@@ -1,0 +1,10 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.Form1.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\bin\Debug\EventaiForm.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\bin\Debug\EventaiForm.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\bin\Debug\EventaiForm.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\EventaiForm\obj\Debug\EventaiForm.pdb

@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\bin\Debug\OldThread.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\bin\Debug\OldThread.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\bin\Debug\OldThread.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\obj\Debug\OldThread.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\obj\Debug\OldThread.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\obj\Debug\OldThread.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\OldThread\obj\Debug\OldThread.pdb

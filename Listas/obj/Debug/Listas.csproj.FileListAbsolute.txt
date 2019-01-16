@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\bin\Debug\Listas.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\bin\Debug\Listas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\bin\Debug\Listas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\obj\Debug\Listas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\obj\Debug\Listas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Listas\obj\Debug\Listas.csprojAssemblyReference.cache

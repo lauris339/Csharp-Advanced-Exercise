@@ -1,0 +1,10 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\bin\Debug\Zodynas.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\bin\Debug\Zodynas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\bin\Debug\Zodynas.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.Form1.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.Properties.Resources.resources
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.csproj.GenerateResource.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\Zodynas\obj\Debug\Zodynas.pdb

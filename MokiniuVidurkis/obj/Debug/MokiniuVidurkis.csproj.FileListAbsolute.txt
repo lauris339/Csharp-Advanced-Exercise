@@ -1,0 +1,7 @@
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\obj\Debug\MokiniuVidurkis.csprojAssemblyReference.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\obj\Debug\MokiniuVidurkis.csproj.CoreCompileInputs.cache
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\bin\Debug\MokiniuVidurkis.exe.config
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\bin\Debug\MokiniuVidurkis.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\bin\Debug\MokiniuVidurkis.pdb
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\obj\Debug\MokiniuVidurkis.exe
+C:\Users\Laurynas\Desktop\C_adv\C adv\MokiniuVidurkis\obj\Debug\MokiniuVidurkis.pdb
